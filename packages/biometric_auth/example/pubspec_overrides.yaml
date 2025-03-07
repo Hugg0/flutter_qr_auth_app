@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: biometric_auth
+dependency_overrides:
+  biometric_auth:
+    path: ..
