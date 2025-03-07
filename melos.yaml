@@ -1,0 +1,3 @@
+name: flutter_qr_auth_app_monorepo
+packages:
+  - packages/**
