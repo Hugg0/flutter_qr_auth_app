@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:biometric_auth/src/domain/repositories/biometric_auth_repository.dart';
-import 'package:biometric_auth/src/domain/entities/biometric_auth_result.dart';
+//import 'package:biometric_auth/src/domain/entities/biometric_auth_result.dart';
 
 import 'biometric_auth_event.dart';
 import 'biometric_auth_state.dart';
