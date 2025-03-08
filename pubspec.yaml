@@ -6,3 +6,4 @@ environment:
 
 dev_dependencies:
   melos: ^3.0.0
+  pigeon: ^5.0.0
